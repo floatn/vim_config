@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/kaze/Documents/Django/vybor_project/home'
+let g:netrw_dirhist_2='/home/kaze/Documents/Django/vybor_project/news'
+let g:netrw_dirhist_3='/home/kaze/Documents/Django/vybor_project/news/static/news/images'
